@@ -1,6 +1,0 @@
-wfdb
-pandas
-numpy
-matplotlib
-notebook
-ipykernel
